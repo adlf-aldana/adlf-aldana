@@ -1,10 +1,10 @@
 # Bienvenido <img src="https://media.giphy.com/media/RlHXMGhyNVIB7vCpb9/giphy.gif" width="50">
 
-Soy Adolfo.
-Bienvenido a mi Github. 
-Soy un apasionado en el aprendizaje.
-Soy un defensor de creación de proyectos de código abierto.
-Me gusta escribir en React y estoy explorando Full-Stack Web.
+Soy Adolfo.<br>
+Bienvenido a mi Github.<br>
+Soy un apasionado en el aprendizaje.<br>
+Soy un defensor de creación de proyectos de código abierto.<br>
+Me gusta escribir en JavaScript tambien en React y estoy explorando Full-Stack Web.
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
